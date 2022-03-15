@@ -19,9 +19,10 @@ public class First5 {
 			li.add(12);
 			for (int i = 0; i < 5; i++) {
 				System.out.println(li.get(i));
+			
 			}
 			
-			
+			System.out.println("Deepack");	
 			
 			
 			
